@@ -28,7 +28,7 @@
 
 ### Why MediaPipe?
 MediaPipe Hands gives reliable and efficient multi-point hand landmarks, making it easy to crop patches for ring detection without needing expensive hand segmentation or pose models.
-This project was based off on a seperate project of mine where I used MediaPipe Hands extentensively for Gesture Recognition.
+This project was based off on a seperate project of mine where I used MediaPipe Hands extensively for Gesture Recognition.
 
 ### Why a CNN Classifier?
 We framed the ring detection as a binary classification problem to not just track finger joints using Mediapipe but the jewellery present:
@@ -52,7 +52,7 @@ CNNs are lightweight, easy to train, and sufficient for this image-level task.
 
 1. Capture webcam video
 2. Detect hand landmarks using MediaPipe
-3. For each joint (index, middle, ring): (can be extended to thumb and Pinky)
+3. For each joint (index, middle, and ring fingers (with potential extension to thumb and pinky))
    - Crop a 64×64 patch
    - Normalize and pass to classifier
    - Predict “RING” or “NO RING”
