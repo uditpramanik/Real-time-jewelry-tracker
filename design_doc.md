@@ -27,8 +27,8 @@
 ## 🧠 Thought Process & Design
 
 ### Why MediaPipe?
-MediaPipe Hands gives reliable and efficient 21-point hand landmarks, making it easy to crop patches for ring detection without needing expensive hand segmentation or pose models.
-This project was based off on a seperate project of mine where I used MediaPipe Hands extentensively for Gesture Recognition
+MediaPipe Hands gives reliable and efficient multi-point hand landmarks, making it easy to crop patches for ring detection without needing expensive hand segmentation or pose models.
+This project was based off on a seperate project of mine where I used MediaPipe Hands extentensively for Gesture Recognition.
 
 ### Why a CNN Classifier?
 We framed the ring detection as a binary classification problem:
