@@ -1,7 +1,7 @@
 
 ---
 
-###  (Project Reasoning + Thought Process)**
+###  Project Reasoning + Thought Process**
 
 
 
