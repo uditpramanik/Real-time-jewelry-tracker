@@ -12,8 +12,8 @@ This project detects rings on the **INDEX**, **MIDDLE**, and **RING** fingers in
 
 ## ⚙️ Setup Instructions
 
-1. **Clone the Repository**
-2. Install Dependencies
+- **Clone the Repository**
+- Install Dependencies
    pip install -r requirements.txt
 
 
@@ -36,14 +36,14 @@ Additional images and augmentations were generated to improve ring/no-ring balan
 
 ##  🏋️ Train the Model
 
-1. Open main.py and set:  TRAIN_MODE = True
-2. Run the script
+- Open main.py and set:  TRAIN_MODE = True
+- Run the script
 
 
 ##  🏋️ Run Real-Time Ring Detection
-1. Once training is done: Set TRAIN_MODE = False in main.py
-2. Run the script
-3. Allow webcam access.
+- Once training is done: Set TRAIN_MODE = False in main.py
+- Run the script
+- Allow webcam access.
 
    
 
