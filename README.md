@@ -47,15 +47,17 @@ Additional images and augmentations were generated to improve ring/no-ring balan
 
    
 
-## The program will:
+##  How It Works
 
-Detect hands via MediaPipe
+The program will:
 
-Crop image patches at key finger joints
+1. Detect hands via MediaPipe
 
-Predict ring presence with the CNN
+2. Crop image patches at key finger joints
 
-Overlay labels (RING / NO RING) on the video
+3. Predict ring presence with the CNN
 
-Press Q to quit the video feed.
+4. Overlay labels (RING / NO RING) on the video
+
+5. Press Q to quit the video feed.
 
