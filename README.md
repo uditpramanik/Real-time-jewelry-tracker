@@ -16,7 +16,16 @@ This project detects rings on the **INDEX**, **MIDDLE**, and **RING** fingers in
 2. Install Dependencies
    pip install -r requirements.txt
 
-##  Dataset Structure
+
+## 📁 Dataset
+
+Training data is based on images from:
+- [Hands and Palm Images Dataset on Kaggle](https://www.kaggle.com/datasets/shyambhu/hands-and-palm-images-dataset)
+
+Additional images and augmentations were generated to improve ring/no-ring balance and simulate real-world variations.
+
+
+###  Dataset Structure
    
    data/cropped_rings_labeled/
 ├── ring/
