@@ -51,13 +51,13 @@ Additional images and augmentations were generated to improve ring/no-ring balan
 
 The program will:
 
-1. Detect hands via MediaPipe
+- Detect hands via MediaPipe
 
-2. Crop image patches at key finger joints
+- Crop image patches at key finger joints
 
-3. Predict ring presence with the CNN
+- Predict ring presence with the CNN
 
-4. Overlay labels (RING / NO RING) on the video
+- Overlay labels (RING / NO RING) on the video
 
-5. Press Q to quit the video feed.
+-  Press Q to quit the video feed.
 
