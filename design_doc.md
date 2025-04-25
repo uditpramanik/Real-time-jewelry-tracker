@@ -1,7 +1,7 @@
 
 ---
 
-### 3. **`design_doc.md` (Project Reasoning + Thought Process)**
+###  (Project Reasoning + Thought Process)**
 
 
 
