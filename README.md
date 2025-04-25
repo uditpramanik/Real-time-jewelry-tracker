@@ -38,7 +38,7 @@ This project detects rings on the **INDEX**, **MIDDLE**, and **RING** fingers in
 
    
 
-# The program will:
+## The program will:
 
 Detect hands via MediaPipe
 
