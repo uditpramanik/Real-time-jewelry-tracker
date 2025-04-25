@@ -60,6 +60,26 @@ CNNs are lightweight, easy to train, and sufficient for this image-level task.
 
 ---
 
+## 📷 Sample Inference Results
+
+Below are real-time screenshots showing ring detection results on the index, middle, and ring fingers using MediaPipe and the trained CNN.
+
+| Pose 1 | Pose 2 |
+|--------|--------|
+| ![](test_samples/test_sample_1.jpg) | ![](test_samples/test_sample_2.jpg) |
+
+| Pose 3 | Pose 4 |
+|--------|--------|
+| ![](test_samples/test_sample_3.jpg) | ![](test_samples/test_sample_4.jpg) |
+
+| Pose 5 |  |
+|--------|--|
+| ![](test_samples/test_sample_5.jpg) |  |
+
+> ✅ Green dot = "RING" detected, ❌ Red dot = "NO RING"  
+> These samples illustrate both successful detections and occasional misclassifications under varying hand poses, lighting, and angles.
+
+
 ## 🔍 Observations / Failures
 
 - Small patches sometimes miss the ring if hand is tilted or occluded
