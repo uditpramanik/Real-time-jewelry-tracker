@@ -85,4 +85,4 @@ This project demonstrates:
 - Real-time inference via webcam
 - CNN image classification on specific body parts
 
-It’s a modular and extensible approach.
+It’s a lightweight, modular  and extensible approach.
