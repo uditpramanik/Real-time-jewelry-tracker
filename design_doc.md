@@ -6,7 +6,7 @@
 
 
 
-# Thuli Studios – Jewelry Detection Challenge
+# Jewelry Detection Challenge
 
 ## 👩‍💻 Assumptions
 
