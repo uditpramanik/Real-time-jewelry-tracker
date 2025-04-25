@@ -10,7 +10,7 @@
 
 ## 👩‍💻 Assumptions
 
-- Anna wears rings on three fingers: index, middle, and ring.
+- User wears rings on three fingers: index, middle, and ring.
 - Only **rings** are tracked for now.
 - The goal is to build a simple, real-time system to detect rings from webcam video using computer vision.
 
